@@ -1,0 +1,680 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.jointcooking-tRE {
+  width: 100%;
+  height: 103.5rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+}
+.jointcooking-tRE .group-1-Ejz {
+  box-sizing: border-box;
+  padding: 0.9rem 0rem 0.9rem 2.6rem;
+  width: 100%;
+  height: 99.8rem;
+  display: flex;
+  align-items: flex-start;
+}
+.jointcooking-tRE .group-1-Ejz .nctuemblem-1-kyE {
+  margin-right: 3.1rem;
+  width: 9.5rem;
+  height: 9.5rem;
+  cursor: pointer;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.jointcooking-tRE .group-1-Ejz .auto-group-a6ww-tJk {
+  margin: 15.1rem 7.9rem 0rem 0rem;
+  width: 71.9rem;
+  flex-shrink: 0;
+}
+.jointcooking-tRE .group-1-Ejz .auto-group-a6ww-tJk .auto-group-zyaj-1eG {
+  margin: 0rem 0rem 1.5rem 0.35rem;
+  width: 26rem;
+  height: 8.7rem;
+  text-align: center;
+  font-size: 5.8rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.0638rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.jointcooking-tRE .group-1-Ejz .auto-group-a6ww-tJk .let-if-has-a-local-maximum-or-minimum-at-then-has-a-local-maximum-or-minimum-at-so-by-fermats-theorem-see-theorem-314-but-see-equation-1131-and-so-similarly-by-applying-fermats-theorem-to-the-function-we-obtain-if-we-put-and-in-the-equation-of-a-tangent-plane-equation-1142-we-get-thus-the-geometric-interpretation-of-theorem-2-is-that-if-the-graph-of-has-a-tangent-plane-at-a-local-maximum-or-minimum-then-the-tangent-plane-must-be-horizontal-a-point-is-called-a-critical-point-or-stationary-point-of-if-and-or-if-one-of-these-partial-derivatives-does-not-exist-theorem-2-says-that-if-has-a-local-maximum-or-minimum-at-then-is-a-critical-point-of-however-as-in-single-variable-calculus-not-all-critical-points-give-rise-to-maxima-or-minima-at-a-critical-point-a-function-could-have-a-local-maximum-or-a-local-minimum-or-neither-example-2-illustrates-the-fact-that-a-function-need-not-have-a-maximum-or-minimum-value-at-a-critical-point-figure-3-shows-how-this-is-possible-the-graph-of-is-the-hyperbolic-paraboloid-which-has-a-horizontal-tangent-plane-at-the-origin-you-can-see-that-is-a-maximum-in-the-direction-of-the-axis-but-a-minimum-in-the-direction-of-the-axis-near-the-origin-the-graph-has-the-shape-of-a-saddle-and-so-is-called-a-saddle-point-of-we-need-to-be-able-to-determine-whether-or-not-a-function-has-an-HLt {
+  margin-bottom: 4.3rem;
+  width: 100%;
+  max-width: 71.9rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.0198rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.jointcooking-tRE .group-1-Ejz .auto-group-a6ww-tJk .auto-group-skph-zwS {
+  margin: 0rem 4.2rem 0rem 3.7rem;
+  width: calc(100% - 7.9rem);
+  display: flex;
+  align-items: center;
+}
+.jointcooking-tRE .group-1-Ejz .auto-group-a6ww-tJk .auto-group-skph-zwS .s63651851-2-XgU {
+  margin: 0.4rem 8.2rem 0rem 0rem;
+  width: 31.3rem;
+  height: 18.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.jointcooking-tRE .group-1-Ejz .auto-group-a6ww-tJk .auto-group-skph-zwS .c8766f-2446-4acd-8480-769b0933b026-2-SHe {
+  margin-bottom: 0.4rem;
+  width: 24.5rem;
+  height: 18.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.jointcooking-tRE .group-1-Ejz .auto-group-wxxt-M9i {
+  margin-top: 14.6rem;
+  width: 49rem;
+  flex-shrink: 0;
+}
+.jointcooking-tRE .group-1-Ejz .auto-group-wxxt-M9i .whos-the-member--tfS {
+  margin: 0rem 0rem 0.6rem 3.6rem;
+  font-size: 2.3rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.0253rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.jointcooking-tRE .group-1-Ejz .auto-group-wxxt-M9i .frame-35-bJx {
+  margin-bottom: 2.9rem;
+  box-sizing: border-box;
+  padding: 1.3rem 1rem 0rem 1.8rem;
+  width: 100%;
+  height: 62.7rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  background-color: #ffffff;
+}
+.jointcooking-tRE .group-1-Ejz .auto-group-wxxt-M9i .frame-35-bJx .frame-28-4TS {
+  margin-right: 1.3rem;
+  width: 40.7rem;
+  height: 122.7rem;
+  row-gap: 1.9rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.jointcooking-tRE .group-1-Ejz .auto-group-wxxt-M9i .frame-35-bJx .frame-28-4TS .frame-21-YtQ {
+  width: 100%;
+  height: 7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.jointcooking-tRE .group-1-Ejz .auto-group-wxxt-M9i .frame-35-bJx .frame-28-4TS .frame-21-YtQ .rectangle-25-6f2 {
+  width: 38.3rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 0.6rem;
+  background-color: #d9d9d9;
+}
+.jointcooking-tRE .group-1-Ejz .auto-group-wxxt-M9i .frame-35-bJx .frame-28-4TS .frame-21-YtQ .ellipse-6-RhJ {
+  width: 7rem;
+  height: 7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #9747ff;
+  border-radius: 3.5rem;
+}
+.jointcooking-tRE .group-1-Ejz .auto-group-wxxt-M9i .frame-35-bJx .frame-28-4TS .frame-21-YtQ .henry-APz {
+  width: 6.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 9.2rem;
+  top: 2rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.jointcooking-tRE .group-1-Ejz .auto-group-wxxt-M9i .frame-35-bJx .frame-28-4TS .frame-22-4kG {
+  width: 100%;
+  height: 7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.jointcooking-tRE .group-1-Ejz .auto-group-wxxt-M9i .frame-35-bJx .frame-28-4TS .frame-22-4kG .rectangle-25-DdA {
+  width: 38.3rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 0.6rem;
+  background-color: #d9d9d9;
+}
+.jointcooking-tRE .group-1-Ejz .auto-group-wxxt-M9i .frame-35-bJx .frame-28-4TS .frame-22-4kG .ellipse-6-xKr {
+  width: 7rem;
+  height: 7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #9747ff;
+  border-radius: 3.5rem;
+}
+.jointcooking-tRE .group-1-Ejz .auto-group-wxxt-M9i .frame-35-bJx .frame-28-4TS .frame-22-4kG .henry-tzC {
+  width: 6.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 9.2rem;
+  top: 2rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.jointcooking-tRE .group-1-Ejz .auto-group-wxxt-M9i .frame-35-bJx .frame-28-4TS .frame-23-Qhe {
+  width: 100%;
+  height: 7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.jointcooking-tRE .group-1-Ejz .auto-group-wxxt-M9i .frame-35-bJx .frame-28-4TS .frame-23-Qhe .rectangle-25-yEx {
+  width: 38.3rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 0.6rem;
+  background-color: #d9d9d9;
+}
+.jointcooking-tRE .group-1-Ejz .auto-group-wxxt-M9i .frame-35-bJx .frame-28-4TS .frame-23-Qhe .ellipse-6-Jo2 {
+  width: 7rem;
+  height: 7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #9747ff;
+  border-radius: 3.5rem;
+}
+.jointcooking-tRE .group-1-Ejz .auto-group-wxxt-M9i .frame-35-bJx .frame-28-4TS .frame-23-Qhe .henry-rJk {
+  width: 6.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 9.2rem;
+  top: 2rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.jointcooking-tRE .group-1-Ejz .auto-group-wxxt-M9i .frame-35-bJx .frame-28-4TS .frame-24-A4Y {
+  width: 100%;
+  height: 7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.jointcooking-tRE .group-1-Ejz .auto-group-wxxt-M9i .frame-35-bJx .frame-28-4TS .frame-24-A4Y .rectangle-25-JgY {
+  width: 38.3rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 0.6rem;
+  background-color: #d9d9d9;
+}
+.jointcooking-tRE .group-1-Ejz .auto-group-wxxt-M9i .frame-35-bJx .frame-28-4TS .frame-24-A4Y .ellipse-6-SGx {
+  width: 7rem;
+  height: 7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #9747ff;
+  border-radius: 3.5rem;
+}
+.jointcooking-tRE .group-1-Ejz .auto-group-wxxt-M9i .frame-35-bJx .frame-28-4TS .frame-24-A4Y .henry-BEY {
+  width: 6.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 9.2rem;
+  top: 2rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.jointcooking-tRE .group-1-Ejz .auto-group-wxxt-M9i .frame-35-bJx .frame-28-4TS .frame-26-VW8 {
+  width: 100%;
+  height: 7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.jointcooking-tRE .group-1-Ejz .auto-group-wxxt-M9i .frame-35-bJx .frame-28-4TS .frame-26-VW8 .rectangle-25-3Xe {
+  width: 38.3rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 0.6rem;
+  background-color: #d9d9d9;
+}
+.jointcooking-tRE .group-1-Ejz .auto-group-wxxt-M9i .frame-35-bJx .frame-28-4TS .frame-26-VW8 .ellipse-6-Bdr {
+  width: 7rem;
+  height: 7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #9747ff;
+  border-radius: 3.5rem;
+}
+.jointcooking-tRE .group-1-Ejz .auto-group-wxxt-M9i .frame-35-bJx .frame-28-4TS .frame-26-VW8 .henry-8oz {
+  width: 6.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 9.2rem;
+  top: 2rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.jointcooking-tRE .group-1-Ejz .auto-group-wxxt-M9i .frame-35-bJx .frame-28-4TS .frame-27-FNp {
+  width: 100%;
+  height: 7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.jointcooking-tRE .group-1-Ejz .auto-group-wxxt-M9i .frame-35-bJx .frame-28-4TS .frame-27-FNp .rectangle-25-D4k {
+  width: 38.3rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 0.6rem;
+  background-color: #d9d9d9;
+}
+.jointcooking-tRE .group-1-Ejz .auto-group-wxxt-M9i .frame-35-bJx .frame-28-4TS .frame-27-FNp .ellipse-6-Ycp {
+  width: 7rem;
+  height: 7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #9747ff;
+  border-radius: 3.5rem;
+}
+.jointcooking-tRE .group-1-Ejz .auto-group-wxxt-M9i .frame-35-bJx .frame-28-4TS .frame-27-FNp .henry-gyv {
+  width: 6.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 9.2rem;
+  top: 2rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.jointcooking-tRE .group-1-Ejz .auto-group-wxxt-M9i .frame-35-bJx .frame-28-4TS .frame-28-zji {
+  width: 100%;
+  height: 7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.jointcooking-tRE .group-1-Ejz .auto-group-wxxt-M9i .frame-35-bJx .frame-28-4TS .frame-28-zji .rectangle-25-kTz {
+  width: 38.3rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 0.6rem;
+  background-color: #d9d9d9;
+}
+.jointcooking-tRE .group-1-Ejz .auto-group-wxxt-M9i .frame-35-bJx .frame-28-4TS .frame-28-zji .ellipse-6-VAg {
+  width: 7rem;
+  height: 7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #9747ff;
+  border-radius: 3.5rem;
+}
+.jointcooking-tRE .group-1-Ejz .auto-group-wxxt-M9i .frame-35-bJx .frame-28-4TS .frame-28-zji .henry-qVS {
+  width: 6.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 9.2rem;
+  top: 2rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.jointcooking-tRE .group-1-Ejz .auto-group-wxxt-M9i .frame-35-bJx .frame-28-4TS .frame-29-ksJ {
+  width: 100%;
+  height: 7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.jointcooking-tRE .group-1-Ejz .auto-group-wxxt-M9i .frame-35-bJx .frame-28-4TS .frame-29-ksJ .rectangle-25-ukC {
+  width: 38.3rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 0.6rem;
+  background-color: #d9d9d9;
+}
+.jointcooking-tRE .group-1-Ejz .auto-group-wxxt-M9i .frame-35-bJx .frame-28-4TS .frame-29-ksJ .ellipse-6-exg {
+  width: 7rem;
+  height: 7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #9747ff;
+  border-radius: 3.5rem;
+}
+.jointcooking-tRE .group-1-Ejz .auto-group-wxxt-M9i .frame-35-bJx .frame-28-4TS .frame-29-ksJ .henry-bsv {
+  width: 6.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 9.2rem;
+  top: 2rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.jointcooking-tRE .group-1-Ejz .auto-group-wxxt-M9i .frame-35-bJx .frame-28-4TS .frame-30-iSk {
+  width: 100%;
+  height: 7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.jointcooking-tRE .group-1-Ejz .auto-group-wxxt-M9i .frame-35-bJx .frame-28-4TS .frame-30-iSk .rectangle-25-Gz4 {
+  width: 38.3rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 0.6rem;
+  background-color: #d9d9d9;
+}
+.jointcooking-tRE .group-1-Ejz .auto-group-wxxt-M9i .frame-35-bJx .frame-28-4TS .frame-30-iSk .ellipse-6-co2 {
+  width: 7rem;
+  height: 7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #9747ff;
+  border-radius: 3.5rem;
+}
+.jointcooking-tRE .group-1-Ejz .auto-group-wxxt-M9i .frame-35-bJx .frame-28-4TS .frame-30-iSk .henry-ZyA {
+  width: 6.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 9.2rem;
+  top: 2rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.jointcooking-tRE .group-1-Ejz .auto-group-wxxt-M9i .frame-35-bJx .frame-28-4TS .frame-31-g2C {
+  width: 100%;
+  height: 7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.jointcooking-tRE .group-1-Ejz .auto-group-wxxt-M9i .frame-35-bJx .frame-28-4TS .frame-31-g2C .rectangle-25-S1N {
+  width: 38.3rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 0.6rem;
+  background-color: #d9d9d9;
+}
+.jointcooking-tRE .group-1-Ejz .auto-group-wxxt-M9i .frame-35-bJx .frame-28-4TS .frame-31-g2C .ellipse-6-Z5z {
+  width: 7rem;
+  height: 7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #9747ff;
+  border-radius: 3.5rem;
+}
+.jointcooking-tRE .group-1-Ejz .auto-group-wxxt-M9i .frame-35-bJx .frame-28-4TS .frame-31-g2C .henry-gRW {
+  width: 6.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 9.2rem;
+  top: 2rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.jointcooking-tRE .group-1-Ejz .auto-group-wxxt-M9i .frame-35-bJx .frame-28-4TS .frame-32-BNG {
+  width: 100%;
+  height: 7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.jointcooking-tRE .group-1-Ejz .auto-group-wxxt-M9i .frame-35-bJx .frame-28-4TS .frame-32-BNG .rectangle-25-8oJ {
+  width: 38.3rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 0.6rem;
+  background-color: #d9d9d9;
+}
+.jointcooking-tRE .group-1-Ejz .auto-group-wxxt-M9i .frame-35-bJx .frame-28-4TS .frame-32-BNG .ellipse-6-sF6 {
+  width: 7rem;
+  height: 7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #9747ff;
+  border-radius: 3.5rem;
+}
+.jointcooking-tRE .group-1-Ejz .auto-group-wxxt-M9i .frame-35-bJx .frame-28-4TS .frame-32-BNG .henry-1cC {
+  width: 6.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 9.2rem;
+  top: 2rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.jointcooking-tRE .group-1-Ejz .auto-group-wxxt-M9i .frame-35-bJx .frame-28-4TS .frame-33-Wor {
+  width: 100%;
+  height: 7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.jointcooking-tRE .group-1-Ejz .auto-group-wxxt-M9i .frame-35-bJx .frame-28-4TS .frame-33-Wor .rectangle-25-seQ {
+  width: 38.3rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 0.6rem;
+  background-color: #d9d9d9;
+}
+.jointcooking-tRE .group-1-Ejz .auto-group-wxxt-M9i .frame-35-bJx .frame-28-4TS .frame-33-Wor .ellipse-6-p3r {
+  width: 7rem;
+  height: 7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #9747ff;
+  border-radius: 3.5rem;
+}
+.jointcooking-tRE .group-1-Ejz .auto-group-wxxt-M9i .frame-35-bJx .frame-28-4TS .frame-33-Wor .henry-ZXE {
+  width: 6.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 9.2rem;
+  top: 2rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.jointcooking-tRE .group-1-Ejz .auto-group-wxxt-M9i .frame-35-bJx .frame-28-4TS .frame-34-UPJ {
+  width: 100%;
+  height: 7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.jointcooking-tRE .group-1-Ejz .auto-group-wxxt-M9i .frame-35-bJx .frame-28-4TS .frame-34-UPJ .rectangle-25-2Qp {
+  width: 38.3rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 0.6rem;
+  background-color: #d9d9d9;
+}
+.jointcooking-tRE .group-1-Ejz .auto-group-wxxt-M9i .frame-35-bJx .frame-28-4TS .frame-34-UPJ .ellipse-6-mNQ {
+  width: 7rem;
+  height: 7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #9747ff;
+  border-radius: 3.5rem;
+}
+.jointcooking-tRE .group-1-Ejz .auto-group-wxxt-M9i .frame-35-bJx .frame-28-4TS .frame-34-UPJ .henry-Wat {
+  width: 6.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 9.2rem;
+  top: 2rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.jointcooking-tRE .group-1-Ejz .auto-group-wxxt-M9i .frame-35-bJx .frame-28-4TS .frame-25-RSx {
+  width: 100%;
+  height: 7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.jointcooking-tRE .group-1-Ejz .auto-group-wxxt-M9i .frame-35-bJx .frame-28-4TS .frame-25-RSx .rectangle-25-yjN {
+  width: 38.3rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 0.6rem;
+  background-color: #d9d9d9;
+}
+.jointcooking-tRE .group-1-Ejz .auto-group-wxxt-M9i .frame-35-bJx .frame-28-4TS .frame-25-RSx .ellipse-6-igx {
+  width: 7rem;
+  height: 7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #9747ff;
+  border-radius: 3.5rem;
+}
+.jointcooking-tRE .group-1-Ejz .auto-group-wxxt-M9i .frame-35-bJx .frame-28-4TS .frame-25-RSx .henry-4kp {
+  width: 6.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 9.2rem;
+  top: 2rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.jointcooking-tRE .group-1-Ejz .auto-group-wxxt-M9i .frame-35-bJx .auto-group-jqfz-B4k {
+  margin-top: 1.5rem;
+  width: 4.2rem;
+  height: 56.6rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.jointcooking-tRE .group-1-Ejz .auto-group-wxxt-M9i .frame-38-W72 {
+  margin: 0rem 4.2rem 0rem 3.1rem;
+  width: calc(100% - 7.3rem);
+  height: 10.1rem;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.033rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffa629;
+  border-radius: 2rem;
+}

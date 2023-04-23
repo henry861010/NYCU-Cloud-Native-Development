@@ -1,0 +1,1126 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 53rem;
+}.frame-35-f5i {
+  box-sizing: border-box;
+  padding: 2rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.5rem;
+}
+.frame-35-f5i .property-1default-zNt {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 1.3rem 1rem 0rem 1.8rem;
+  width: 100%;
+  height: 62.7rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.frame-35-f5i .property-1default-zNt .frame-28-tz4 {
+  margin-right: 1.3rem;
+  width: 40.7rem;
+  height: 122.7rem;
+  row-gap: 1.9rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-35-f5i .property-1default-zNt .frame-28-tz4 .frame-21-btU {
+  width: 100%;
+  height: 7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-35-f5i .property-1default-zNt .frame-28-tz4 .frame-21-btU .rectangle-25-m2G {
+  width: 38.3rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 0.6rem;
+  background-color: #d9d9d9;
+}
+.frame-35-f5i .property-1default-zNt .frame-28-tz4 .frame-21-btU .ellipse-6-6KS {
+  width: 7rem;
+  height: 7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #9747ff;
+  border-radius: 3.5rem;
+}
+.frame-35-f5i .property-1default-zNt .frame-28-tz4 .frame-21-btU .henry-pmE {
+  width: 6.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 9.2rem;
+  top: 2rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-f5i .property-1default-zNt .frame-28-tz4 .frame-22-uXn {
+  width: 100%;
+  height: 7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-35-f5i .property-1default-zNt .frame-28-tz4 .frame-22-uXn .rectangle-25-Fbe {
+  width: 38.3rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 0.6rem;
+  background-color: #d9d9d9;
+}
+.frame-35-f5i .property-1default-zNt .frame-28-tz4 .frame-22-uXn .ellipse-6-z3S {
+  width: 7rem;
+  height: 7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #9747ff;
+  border-radius: 3.5rem;
+}
+.frame-35-f5i .property-1default-zNt .frame-28-tz4 .frame-22-uXn .henry-jWp {
+  width: 6.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 9.2rem;
+  top: 2rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-f5i .property-1default-zNt .frame-28-tz4 .frame-23-r5e {
+  width: 100%;
+  height: 7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-35-f5i .property-1default-zNt .frame-28-tz4 .frame-23-r5e .rectangle-25-zxY {
+  width: 38.3rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 0.6rem;
+  background-color: #d9d9d9;
+}
+.frame-35-f5i .property-1default-zNt .frame-28-tz4 .frame-23-r5e .ellipse-6-Xha {
+  width: 7rem;
+  height: 7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #9747ff;
+  border-radius: 3.5rem;
+}
+.frame-35-f5i .property-1default-zNt .frame-28-tz4 .frame-23-r5e .henry-sWY {
+  width: 6.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 9.2rem;
+  top: 2rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-f5i .property-1default-zNt .frame-28-tz4 .frame-24-bBe {
+  width: 100%;
+  height: 7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-35-f5i .property-1default-zNt .frame-28-tz4 .frame-24-bBe .rectangle-25-MAp {
+  width: 38.3rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 0.6rem;
+  background-color: #d9d9d9;
+}
+.frame-35-f5i .property-1default-zNt .frame-28-tz4 .frame-24-bBe .ellipse-6-tAk {
+  width: 7rem;
+  height: 7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #9747ff;
+  border-radius: 3.5rem;
+}
+.frame-35-f5i .property-1default-zNt .frame-28-tz4 .frame-24-bBe .henry-EVW {
+  width: 6.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 9.2rem;
+  top: 2rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-f5i .property-1default-zNt .frame-28-tz4 .frame-26-wui {
+  width: 100%;
+  height: 7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-35-f5i .property-1default-zNt .frame-28-tz4 .frame-26-wui .rectangle-25-WC8 {
+  width: 38.3rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 0.6rem;
+  background-color: #d9d9d9;
+}
+.frame-35-f5i .property-1default-zNt .frame-28-tz4 .frame-26-wui .ellipse-6-RK6 {
+  width: 7rem;
+  height: 7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #9747ff;
+  border-radius: 3.5rem;
+}
+.frame-35-f5i .property-1default-zNt .frame-28-tz4 .frame-26-wui .henry-w2Y {
+  width: 6.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 9.2rem;
+  top: 2rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-f5i .property-1default-zNt .frame-28-tz4 .frame-27-Qwi {
+  width: 100%;
+  height: 7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-35-f5i .property-1default-zNt .frame-28-tz4 .frame-27-Qwi .rectangle-25-yV2 {
+  width: 38.3rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 0.6rem;
+  background-color: #d9d9d9;
+}
+.frame-35-f5i .property-1default-zNt .frame-28-tz4 .frame-27-Qwi .ellipse-6-K36 {
+  width: 7rem;
+  height: 7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #9747ff;
+  border-radius: 3.5rem;
+}
+.frame-35-f5i .property-1default-zNt .frame-28-tz4 .frame-27-Qwi .henry-FhS {
+  width: 6.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 9.2rem;
+  top: 2rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-f5i .property-1default-zNt .frame-28-tz4 .frame-28-mQt {
+  width: 100%;
+  height: 7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-35-f5i .property-1default-zNt .frame-28-tz4 .frame-28-mQt .rectangle-25-8FS {
+  width: 38.3rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 0.6rem;
+  background-color: #d9d9d9;
+}
+.frame-35-f5i .property-1default-zNt .frame-28-tz4 .frame-28-mQt .ellipse-6-4un {
+  width: 7rem;
+  height: 7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #9747ff;
+  border-radius: 3.5rem;
+}
+.frame-35-f5i .property-1default-zNt .frame-28-tz4 .frame-28-mQt .henry-pPA {
+  width: 6.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 9.2rem;
+  top: 2rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-f5i .property-1default-zNt .frame-28-tz4 .frame-29-izL {
+  width: 100%;
+  height: 7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-35-f5i .property-1default-zNt .frame-28-tz4 .frame-29-izL .rectangle-25-ggG {
+  width: 38.3rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 0.6rem;
+  background-color: #d9d9d9;
+}
+.frame-35-f5i .property-1default-zNt .frame-28-tz4 .frame-29-izL .ellipse-6-pnU {
+  width: 7rem;
+  height: 7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #9747ff;
+  border-radius: 3.5rem;
+}
+.frame-35-f5i .property-1default-zNt .frame-28-tz4 .frame-29-izL .henry-aFr {
+  width: 6.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 9.2rem;
+  top: 2rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-f5i .property-1default-zNt .frame-28-tz4 .frame-30-gpg {
+  width: 100%;
+  height: 7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-35-f5i .property-1default-zNt .frame-28-tz4 .frame-30-gpg .rectangle-25-eFi {
+  width: 38.3rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 0.6rem;
+  background-color: #d9d9d9;
+}
+.frame-35-f5i .property-1default-zNt .frame-28-tz4 .frame-30-gpg .ellipse-6-PDJ {
+  width: 7rem;
+  height: 7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #9747ff;
+  border-radius: 3.5rem;
+}
+.frame-35-f5i .property-1default-zNt .frame-28-tz4 .frame-30-gpg .henry-8gg {
+  width: 6.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 9.2rem;
+  top: 2rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-f5i .property-1default-zNt .frame-28-tz4 .frame-31-e9E {
+  width: 100%;
+  height: 7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-35-f5i .property-1default-zNt .frame-28-tz4 .frame-31-e9E .rectangle-25-Q8Q {
+  width: 38.3rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 0.6rem;
+  background-color: #d9d9d9;
+}
+.frame-35-f5i .property-1default-zNt .frame-28-tz4 .frame-31-e9E .ellipse-6-jwN {
+  width: 7rem;
+  height: 7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #9747ff;
+  border-radius: 3.5rem;
+}
+.frame-35-f5i .property-1default-zNt .frame-28-tz4 .frame-31-e9E .henry-t3a {
+  width: 6.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 9.2rem;
+  top: 2rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-f5i .property-1default-zNt .frame-28-tz4 .frame-32-CKA {
+  width: 100%;
+  height: 7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-35-f5i .property-1default-zNt .frame-28-tz4 .frame-32-CKA .rectangle-25-9VJ {
+  width: 38.3rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 0.6rem;
+  background-color: #d9d9d9;
+}
+.frame-35-f5i .property-1default-zNt .frame-28-tz4 .frame-32-CKA .ellipse-6-tBz {
+  width: 7rem;
+  height: 7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #9747ff;
+  border-radius: 3.5rem;
+}
+.frame-35-f5i .property-1default-zNt .frame-28-tz4 .frame-32-CKA .henry-EFr {
+  width: 6.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 9.2rem;
+  top: 2rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-f5i .property-1default-zNt .frame-28-tz4 .frame-33-LJt {
+  width: 100%;
+  height: 7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-35-f5i .property-1default-zNt .frame-28-tz4 .frame-33-LJt .rectangle-25-h9S {
+  width: 38.3rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 0.6rem;
+  background-color: #d9d9d9;
+}
+.frame-35-f5i .property-1default-zNt .frame-28-tz4 .frame-33-LJt .ellipse-6-2xQ {
+  width: 7rem;
+  height: 7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #9747ff;
+  border-radius: 3.5rem;
+}
+.frame-35-f5i .property-1default-zNt .frame-28-tz4 .frame-33-LJt .henry-BaQ {
+  width: 6.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 9.2rem;
+  top: 2rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-f5i .property-1default-zNt .frame-28-tz4 .frame-34-HdS {
+  width: 100%;
+  height: 7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-35-f5i .property-1default-zNt .frame-28-tz4 .frame-34-HdS .rectangle-25-2L8 {
+  width: 38.3rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 0.6rem;
+  background-color: #d9d9d9;
+}
+.frame-35-f5i .property-1default-zNt .frame-28-tz4 .frame-34-HdS .ellipse-6-9vY {
+  width: 7rem;
+  height: 7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #9747ff;
+  border-radius: 3.5rem;
+}
+.frame-35-f5i .property-1default-zNt .frame-28-tz4 .frame-34-HdS .henry-J2k {
+  width: 6.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 9.2rem;
+  top: 2rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-f5i .property-1default-zNt .frame-28-tz4 .frame-25-1Sx {
+  width: 100%;
+  height: 7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-35-f5i .property-1default-zNt .frame-28-tz4 .frame-25-1Sx .rectangle-25-ZUU {
+  width: 38.3rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 0.6rem;
+  background-color: #d9d9d9;
+}
+.frame-35-f5i .property-1default-zNt .frame-28-tz4 .frame-25-1Sx .ellipse-6-JS4 {
+  width: 7rem;
+  height: 7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #9747ff;
+  border-radius: 3.5rem;
+}
+.frame-35-f5i .property-1default-zNt .frame-28-tz4 .frame-25-1Sx .henry-eVv {
+  width: 6.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 9.2rem;
+  top: 2rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-f5i .property-1default-zNt .auto-group-cdkx-kor {
+  margin-top: 1.5rem;
+  width: 4.2rem;
+  height: 56.6rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-35-f5i .property-1variant2-5r8 {
+  box-sizing: border-box;
+  padding: 0rem 2rem 0rem 1.8rem;
+  width: 100%;
+  height: 62.7rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-end;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.frame-35-f5i .property-1variant2-5r8 .frame-28-oGL {
+  margin: 0rem 2.3rem 5rem 0rem;
+  width: 40.7rem;
+  row-gap: 1.9rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-35-f5i .property-1variant2-5r8 .frame-28-oGL .frame-21-Vur {
+  width: 100%;
+  height: 7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-35-f5i .property-1variant2-5r8 .frame-28-oGL .frame-21-Vur .rectangle-25-rVW {
+  width: 38.3rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 0.6rem;
+  background-color: #d9d9d9;
+}
+.frame-35-f5i .property-1variant2-5r8 .frame-28-oGL .frame-21-Vur .ellipse-6-zbi {
+  width: 7rem;
+  height: 7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #9747ff;
+  border-radius: 3.5rem;
+}
+.frame-35-f5i .property-1variant2-5r8 .frame-28-oGL .frame-21-Vur .henry-8xp {
+  width: 6.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 9.2rem;
+  top: 2rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-f5i .property-1variant2-5r8 .frame-28-oGL .frame-22-3pt {
+  width: 100%;
+  height: 7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-35-f5i .property-1variant2-5r8 .frame-28-oGL .frame-22-3pt .rectangle-25-cNC {
+  width: 38.3rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 0.6rem;
+  background-color: #d9d9d9;
+}
+.frame-35-f5i .property-1variant2-5r8 .frame-28-oGL .frame-22-3pt .ellipse-6-xBA {
+  width: 7rem;
+  height: 7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #9747ff;
+  border-radius: 3.5rem;
+}
+.frame-35-f5i .property-1variant2-5r8 .frame-28-oGL .frame-22-3pt .henry-JVv {
+  width: 6.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 9.2rem;
+  top: 2rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-f5i .property-1variant2-5r8 .frame-28-oGL .frame-23-1v8 {
+  width: 100%;
+  height: 7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-35-f5i .property-1variant2-5r8 .frame-28-oGL .frame-23-1v8 .rectangle-25-Zwe {
+  width: 38.3rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 0.6rem;
+  background-color: #d9d9d9;
+}
+.frame-35-f5i .property-1variant2-5r8 .frame-28-oGL .frame-23-1v8 .ellipse-6-JPS {
+  width: 7rem;
+  height: 7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #9747ff;
+  border-radius: 3.5rem;
+}
+.frame-35-f5i .property-1variant2-5r8 .frame-28-oGL .frame-23-1v8 .henry-SkY {
+  width: 6.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 9.2rem;
+  top: 2rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-f5i .property-1variant2-5r8 .frame-28-oGL .frame-24-9ur {
+  width: 100%;
+  height: 7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-35-f5i .property-1variant2-5r8 .frame-28-oGL .frame-24-9ur .rectangle-25-WkQ {
+  width: 38.3rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 0.6rem;
+  background-color: #d9d9d9;
+}
+.frame-35-f5i .property-1variant2-5r8 .frame-28-oGL .frame-24-9ur .ellipse-6-rZN {
+  width: 7rem;
+  height: 7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #9747ff;
+  border-radius: 3.5rem;
+}
+.frame-35-f5i .property-1variant2-5r8 .frame-28-oGL .frame-24-9ur .henry-PpC {
+  width: 6.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 9.2rem;
+  top: 2rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-f5i .property-1variant2-5r8 .frame-28-oGL .frame-26-7EQ {
+  width: 100%;
+  height: 7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-35-f5i .property-1variant2-5r8 .frame-28-oGL .frame-26-7EQ .rectangle-25-sDa {
+  width: 38.3rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 0.6rem;
+  background-color: #d9d9d9;
+}
+.frame-35-f5i .property-1variant2-5r8 .frame-28-oGL .frame-26-7EQ .ellipse-6-D2Y {
+  width: 7rem;
+  height: 7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #9747ff;
+  border-radius: 3.5rem;
+}
+.frame-35-f5i .property-1variant2-5r8 .frame-28-oGL .frame-26-7EQ .henry-xVv {
+  width: 6.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 9.2rem;
+  top: 2rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-f5i .property-1variant2-5r8 .frame-28-oGL .frame-27-H2Q {
+  width: 100%;
+  height: 7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-35-f5i .property-1variant2-5r8 .frame-28-oGL .frame-27-H2Q .rectangle-25-ECY {
+  width: 38.3rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 0.6rem;
+  background-color: #d9d9d9;
+}
+.frame-35-f5i .property-1variant2-5r8 .frame-28-oGL .frame-27-H2Q .ellipse-6-jQC {
+  width: 7rem;
+  height: 7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #9747ff;
+  border-radius: 3.5rem;
+}
+.frame-35-f5i .property-1variant2-5r8 .frame-28-oGL .frame-27-H2Q .henry-T5J {
+  width: 6.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 9.2rem;
+  top: 2rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-f5i .property-1variant2-5r8 .frame-28-oGL .frame-28-Z8L {
+  width: 100%;
+  height: 7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-35-f5i .property-1variant2-5r8 .frame-28-oGL .frame-28-Z8L .rectangle-25-WJU {
+  width: 38.3rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 0.6rem;
+  background-color: #d9d9d9;
+}
+.frame-35-f5i .property-1variant2-5r8 .frame-28-oGL .frame-28-Z8L .ellipse-6-FWx {
+  width: 7rem;
+  height: 7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #9747ff;
+  border-radius: 3.5rem;
+}
+.frame-35-f5i .property-1variant2-5r8 .frame-28-oGL .frame-28-Z8L .henry-CBJ {
+  width: 6.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 9.2rem;
+  top: 2rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-f5i .property-1variant2-5r8 .frame-28-oGL .frame-29-73N {
+  width: 100%;
+  height: 7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-35-f5i .property-1variant2-5r8 .frame-28-oGL .frame-29-73N .rectangle-25-4jJ {
+  width: 38.3rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 0.6rem;
+  background-color: #d9d9d9;
+}
+.frame-35-f5i .property-1variant2-5r8 .frame-28-oGL .frame-29-73N .ellipse-6-QYG {
+  width: 7rem;
+  height: 7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #9747ff;
+  border-radius: 3.5rem;
+}
+.frame-35-f5i .property-1variant2-5r8 .frame-28-oGL .frame-29-73N .henry-ZAG {
+  width: 6.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 9.2rem;
+  top: 2rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-f5i .property-1variant2-5r8 .frame-28-oGL .frame-30-UY8 {
+  width: 100%;
+  height: 7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-35-f5i .property-1variant2-5r8 .frame-28-oGL .frame-30-UY8 .rectangle-25-2pY {
+  width: 38.3rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 0.6rem;
+  background-color: #d9d9d9;
+}
+.frame-35-f5i .property-1variant2-5r8 .frame-28-oGL .frame-30-UY8 .ellipse-6-yjn {
+  width: 7rem;
+  height: 7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #9747ff;
+  border-radius: 3.5rem;
+}
+.frame-35-f5i .property-1variant2-5r8 .frame-28-oGL .frame-30-UY8 .henry-vQ8 {
+  width: 6.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 9.2rem;
+  top: 2rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-f5i .property-1variant2-5r8 .frame-28-oGL .frame-31-pkQ {
+  width: 100%;
+  height: 7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-35-f5i .property-1variant2-5r8 .frame-28-oGL .frame-31-pkQ .rectangle-25-nBS {
+  width: 38.3rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 0.6rem;
+  background-color: #d9d9d9;
+}
+.frame-35-f5i .property-1variant2-5r8 .frame-28-oGL .frame-31-pkQ .ellipse-6-iKz {
+  width: 7rem;
+  height: 7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #9747ff;
+  border-radius: 3.5rem;
+}
+.frame-35-f5i .property-1variant2-5r8 .frame-28-oGL .frame-31-pkQ .henry-ToN {
+  width: 6.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 9.2rem;
+  top: 2rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-f5i .property-1variant2-5r8 .frame-28-oGL .frame-32-BUU {
+  width: 100%;
+  height: 7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-35-f5i .property-1variant2-5r8 .frame-28-oGL .frame-32-BUU .rectangle-25-vwr {
+  width: 38.3rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 0.6rem;
+  background-color: #d9d9d9;
+}
+.frame-35-f5i .property-1variant2-5r8 .frame-28-oGL .frame-32-BUU .ellipse-6-bo6 {
+  width: 7rem;
+  height: 7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #9747ff;
+  border-radius: 3.5rem;
+}
+.frame-35-f5i .property-1variant2-5r8 .frame-28-oGL .frame-32-BUU .henry-7WY {
+  width: 6.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 9.2rem;
+  top: 2rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-f5i .property-1variant2-5r8 .frame-28-oGL .frame-33-Azc {
+  width: 100%;
+  height: 7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-35-f5i .property-1variant2-5r8 .frame-28-oGL .frame-33-Azc .rectangle-25-8Ak {
+  width: 38.3rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 0.6rem;
+  background-color: #d9d9d9;
+}
+.frame-35-f5i .property-1variant2-5r8 .frame-28-oGL .frame-33-Azc .ellipse-6-G24 {
+  width: 7rem;
+  height: 7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #9747ff;
+  border-radius: 3.5rem;
+}
+.frame-35-f5i .property-1variant2-5r8 .frame-28-oGL .frame-33-Azc .henry-DCC {
+  width: 6.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 9.2rem;
+  top: 2rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-f5i .property-1variant2-5r8 .frame-28-oGL .frame-34-nuW {
+  width: 100%;
+  height: 7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-35-f5i .property-1variant2-5r8 .frame-28-oGL .frame-34-nuW .rectangle-25-8yN {
+  width: 38.3rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 0.6rem;
+  background-color: #d9d9d9;
+}
+.frame-35-f5i .property-1variant2-5r8 .frame-28-oGL .frame-34-nuW .ellipse-6-UnL {
+  width: 7rem;
+  height: 7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #9747ff;
+  border-radius: 3.5rem;
+}
+.frame-35-f5i .property-1variant2-5r8 .frame-28-oGL .frame-34-nuW .henry-RSg {
+  width: 6.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 9.2rem;
+  top: 2rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-f5i .property-1variant2-5r8 .frame-28-oGL .frame-25-veL {
+  width: 100%;
+  height: 7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-35-f5i .property-1variant2-5r8 .frame-28-oGL .frame-25-veL .rectangle-25-Ufr {
+  width: 38.3rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 0.6rem;
+  background-color: #d9d9d9;
+}
+.frame-35-f5i .property-1variant2-5r8 .frame-28-oGL .frame-25-veL .ellipse-6-19z {
+  width: 7rem;
+  height: 7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #9747ff;
+  border-radius: 3.5rem;
+}
+.frame-35-f5i .property-1variant2-5r8 .frame-28-oGL .frame-25-veL .henry-9mz {
+  width: 6.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 9.2rem;
+  top: 2rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-35-f5i .property-1variant2-5r8 .auto-group-cbwk-4e4 {
+  margin-bottom: 1.8rem;
+  width: 2.2rem;
+  height: 56.2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}

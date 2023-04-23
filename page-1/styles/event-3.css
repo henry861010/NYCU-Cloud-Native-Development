@@ -1,0 +1,287 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 89.6rem;
+}.event-3-q2G {
+  box-sizing: border-box;
+  padding: 4.9rem 2.4rem 4.4rem 1.6rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.5rem;
+}
+.event-3-q2G .close-9oe {
+  margin-bottom: 5.4rem;
+  box-sizing: border-box;
+  padding: 2rem 4.2rem 1.9rem 3.7rem;
+  width: 100%;
+  height: 13.9rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.event-3-q2G .close-9oe .ellipse-1-Frg {
+  margin-right: 5.3rem;
+  width: 10rem;
+  height: 10rem;
+  background-color: #9747ff;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.event-3-q2G .close-9oe .auto-group-dd6k-nbi {
+  margin: 0rem 4.3rem 1.4rem 0rem;
+  width: 34.3rem;
+  flex-shrink: 0;
+}
+.event-3-q2G .close-9oe .auto-group-dd6k-nbi .weekend-surfing-trip-j1A {
+  margin-bottom: 0.3rem;
+  width: 100%;
+  text-align: center;
+  font-size: 3.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.0385rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.event-3-q2G .close-9oe .auto-group-dd6k-nbi .date-2-17-2-18-place-taitung-Dh2 {
+  width: 100%;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.event-3-q2G .close-9oe .frame-19-LFr {
+  margin: 0.8rem 4.6rem 0.3rem 0rem;
+  box-sizing: border-box;
+  padding: 0.6rem;
+  height: calc(100% - 1.1rem);
+  overflow: hidden;
+  position: relative;
+  background-color: #9747ff;
+  flex-shrink: 0;
+}
+.event-3-q2G .close-9oe .frame-19-LFr .af8ff6c9-fec8-4ec0-98c6-11e7fdfc116c-1-rV6 {
+  width: 9.4rem;
+  height: 7.7rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.event-3-q2G .close-9oe .frame-20-mMA {
+  margin: 0.8rem 0rem 0.3rem 0rem;
+  box-sizing: border-box;
+  padding: 0.3rem 0.5rem;
+  height: calc(100% - 1.1rem);
+  overflow: hidden;
+  position: relative;
+  background-color: #9747ff;
+  flex-shrink: 0;
+}
+.event-3-q2G .close-9oe .frame-20-mMA .a8d14c19-1593-4308-8425-a0972fcc0dfc-1-tgg {
+  width: 7.6rem;
+  height: 8.3rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.event-3-q2G .open-QQ8 {
+  box-sizing: border-box;
+  padding: 2rem 4.399rem 2.1rem 3.699rem;
+  width: 100%;
+  cursor: pointer;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.event-3-q2G .open-QQ8 .auto-group-ufhu-8L8 {
+  margin: 0rem 0.601rem 2.649rem 0.001rem;
+  width: calc(100% - 0.6016rem);
+  height: 10rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.event-3-q2G .open-QQ8 .auto-group-ufhu-8L8 .ellipse-1-Src {
+  width: 10rem;
+  height: 10rem;
+  background-color: #9747ff;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.event-3-q2G .open-QQ8 .auto-group-ufhu-8L8 .auto-group-tgn7-NkG {
+  box-sizing: border-box;
+  padding-left: 5.3rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.event-3-q2G .open-QQ8 .auto-group-ufhu-8L8 .auto-group-tgn7-NkG .auto-group-fnck-iJL {
+  margin: 0rem 8.2rem 1.4rem 0rem;
+  width: 34.3rem;
+  flex-shrink: 0;
+}
+.event-3-q2G .open-QQ8 .auto-group-ufhu-8L8 .auto-group-tgn7-NkG .auto-group-fnck-iJL .weekend-surfing-trip-3rQ {
+  margin-bottom: 0.3rem;
+  width: 100%;
+  text-align: center;
+  font-size: 3.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.0385rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.event-3-q2G .open-QQ8 .auto-group-ufhu-8L8 .auto-group-tgn7-NkG .auto-group-fnck-iJL .date-2-17-2-18-place-taitung-xiU {
+  width: 100%;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.event-3-q2G .open-QQ8 .auto-group-ufhu-8L8 .auto-group-tgn7-NkG .frame-1-Ugp {
+  margin: 1.7rem 0rem 1.5rem 0rem;
+  width: 19.1rem;
+  height: calc(100% - 3.2rem);
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffa629;
+  border-radius: 1.7rem;
+  flex-shrink: 0;
+}
+.event-3-q2G .open-QQ8 .line-1-vYp {
+  margin-bottom: 1.5506rem;
+  width: 100%;
+  height: 0.1rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.event-3-q2G .open-QQ8 .auto-group-16aw-g2C {
+  margin: 0rem 0.901rem 0rem 2.001rem;
+  width: calc(100% - 2.9016rem);
+  height: 36.8rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.event-3-q2G .open-QQ8 .auto-group-16aw-g2C .auto-group-znpt-PxC {
+  margin-right: 4.7rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.event-3-q2G .open-QQ8 .auto-group-16aw-g2C .auto-group-znpt-PxC .master-henry-like-surfing-hiking-and-anything-outdoor-has-a-lot-of-experience-for-holding-event-YaC {
+  margin: 0rem 0rem 2.3rem 0.1rem;
+  max-width: 40.4rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.event-3-q2G .open-QQ8 .auto-group-16aw-g2C .auto-group-znpt-PxC .content-taiwans-eastern-city-of-taitung-is-known-for-having-some-of-the-best-waves-for-surfing-and-the-weather-forecast-predicts-big-waves-this-weekend-im-hoping-to-find-a-group-of-friends-who-share-my-love-of-surfing-and-drive-there-together-itll-be-an-amazing-trip-where-we-can-surf-during-the-day-and-enjoy-drinks-and-conversations-at-night-Cue {
+  margin-bottom: 1.5rem;
+  max-width: 50.6rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.event-3-q2G .open-QQ8 .auto-group-16aw-g2C .auto-group-znpt-PxC .more-detail-PDS {
+  cursor: pointer;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: #2c3ed7;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.event-3-q2G .open-QQ8 .auto-group-16aw-g2C .auto-group-a6km-K76 {
+  margin: 0.5rem 0rem 1.5rem 0rem;
+  width: 19.3rem;
+  height: calc(100% - 2rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.event-3-q2G .open-QQ8 .auto-group-16aw-g2C .auto-group-a6km-K76 .frame-19-qbE {
+  margin-bottom: 1.8rem;
+  box-sizing: border-box;
+  padding: 0.6rem 0.9rem 0.6rem 0.6rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  background-color: #9747ff;
+  flex-shrink: 0;
+}
+.event-3-q2G .open-QQ8 .auto-group-16aw-g2C .auto-group-a6km-K76 .frame-19-qbE .af8ff6c9-fec8-4ec0-98c6-11e7fdfc116c-1-MZa {
+  width: 17.8rem;
+  height: 13rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.event-3-q2G .open-QQ8 .auto-group-16aw-g2C .auto-group-a6km-K76 .frame-20-TsW {
+  margin: 0rem 2.6rem 0rem 2.1rem;
+  box-sizing: border-box;
+  padding: 0.3rem 0.5rem 0.4rem 0.5rem;
+  width: calc(100% - 4.7rem);
+  overflow: hidden;
+  position: relative;
+  background-color: #9747ff;
+  flex-shrink: 0;
+}
+.event-3-q2G .open-QQ8 .auto-group-16aw-g2C .auto-group-a6km-K76 .frame-20-TsW .a8d14c19-1593-4308-8425-a0972fcc0dfc-1-Nja {
+  width: 13.6rem;
+  height: 18.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}

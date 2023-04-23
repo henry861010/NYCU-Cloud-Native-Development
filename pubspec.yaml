@@ -1,0 +1,194 @@
+name: myapp
+description: A exported flutter project from FUNCTION12
+
+
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# In Android, build-name is used as versionName while build-number used as versionCode.
+# Read more about Android versioning at https://developer.android.com/studio/publish/versioning
+# In iOS, build-name is used as CFBundleShortVersionString while build-number is used as CFBundleVersion.
+# Read more about iOS versioning at
+# https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+# In Windows, build-name is used as the major, minor, and patch parts
+# of the product and file versions while build-number is used as the build suffix.
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.18.2 <3.0.0'
+
+# Dependencies specify other packages that your package needs in order to work.
+# To automatically upgrade your package dependencies to the latest versions
+# consider running `flutter pub upgrade --major-versions`. Alternatively,
+# dependencies can be manually updated by changing the version numbers below to
+# the latest version available on pub.dev. To see which dependencies have newer
+# versions available, run `flutter pub outdated`.
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^1.0.2
+  google_fonts: ^3.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  # The "flutter_lints" package below contains a set of recommended lints to
+  # encourage good coding practices. The lint set provided by the package is
+  # activated in the `analysis_options.yaml` file located at the root of your
+  # package. See that file for information about deactivating specific lint
+  # rules and activating additional ones.
+  flutter_lints: ^2.0.0
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter packages.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  # assets:
+  #   - images/a_dot_burr.jpeg
+  #   - images/a_dot_ham.jpeg
+  assets:
+    - assets/page-1/images/cooking-2.png
+    - assets/page-1/images/hiking-2.png
+    - assets/page-1/images/cooking-2-mBE.png
+    - assets/page-1/images/yoga-1.png
+    - assets/page-1/images/gender-1.png
+    - assets/page-1/images/surfer-1.png
+    - assets/page-1/images/surfer-1-FHJ.png
+    - assets/page-1/images/video-1.png
+    - assets/page-1/images/nctuemblem-1.png
+    - assets/page-1/images/video-1-Q3z.png
+    - assets/page-1/images/man.png
+    - assets/page-1/images/yoga-1-M4c.png
+    - assets/page-1/images/nctuemblem-4.png
+    - assets/page-1/images/surfer-3.png
+    - assets/page-1/images/guitar-1.png
+    - assets/page-1/images/upload-3.png
+    - assets/page-1/images/s63651851-2.png
+    - assets/page-1/images/s63651851-2-M92.png
+    - assets/page-1/images/restaurant-1.png
+    - assets/page-1/images/nctuemblem-1-NVE.png
+    - assets/page-1/images/upload-2.png
+    - assets/page-1/images/guitar-1-taL.png
+    - assets/page-1/images/yoga-1-eJc.png
+    - assets/page-1/images/nctuemblem-2.png
+    - assets/page-1/images/cooking-1.png
+    - assets/page-1/images/restaurant-1-CBS.png
+    - assets/page-1/images/guitar-1-MCk.png
+    - assets/page-1/images/cooking-2-hnQ.png
+    - assets/page-1/images/cooking-1-UkG.png
+    - assets/page-1/images/video-1-aaL.png
+    - assets/page-1/images/video-1-z1n.png
+    - assets/page-1/images/hiking-1.png
+    - assets/page-1/images/guitar-1-x88.png
+    - assets/page-1/images/nctuemblem-3.png
+    - assets/page-1/images/restaurant-1-BJx.png
+    - assets/page-1/images/af8ff6c9-fec8-4ec0-98c6-11e7fdfc116c-1.png
+    - assets/page-1/images/ef2d-cb45-43db-bf07-e8df009a0deb-1.png
+    - assets/page-1/images/upload-1.png
+    - assets/page-1/images/yoga-1-1jE.png
+    - assets/page-1/images/ellipse-3.png
+    - assets/page-1/images/auto-group-uwno.png
+    - assets/page-1/images/restaurant-1-cWC.png
+    - assets/page-1/images/nctuemblem-1-7QL.png
+    - assets/page-1/images/af8ff6c9-fec8-4ec0-98c6-11e7fdfc116c-1-tac.png
+    - assets/page-1/images/auto-group-wcc3.png
+    - assets/page-1/images/auto-group-z2ov.png
+    - assets/page-1/images/ellipse-4.png
+    - assets/page-1/images/auto-group-dsdu.png
+    - assets/page-1/images/auto-group-jqfz.png
+    - assets/page-1/images/next.png
+    - assets/page-1/images/auto-group-8zsx.png
+    - assets/page-1/images/auto-group-1tpm.png
+    - assets/page-1/images/next-YVN.png
+    - assets/page-1/images/hiking-1-Qyv.png
+    - assets/page-1/images/surfer-2.png
+    - assets/page-1/images/ef2d-cb45-43db-bf07-e8df009a0deb-1-b6g.png
+    - assets/page-1/images/s63651851-1.png
+    - assets/page-1/images/ellipse-3-VKn.png
+    - assets/page-1/images/auto-group-ky1y.png
+    - assets/page-1/images/next-PAG.png
+    - assets/page-1/images/ellipse-2.png
+    - assets/page-1/images/c8766f-2446-4acd-8480-769b0933b026-2.png
+    - assets/page-1/images/s63651851-1-1rg.png
+    - assets/page-1/images/c8766f-2446-4acd-8480-769b0933b026-5.png
+    - assets/page-1/images/nctuemblem-1-ZLU.png
+    - assets/page-1/images/next-tFJ.png
+    - assets/page-1/images/ef2d-cb45-43db-bf07-e8df009a0deb-1-GBJ.png
+    - assets/page-1/images/auto-group-cdkx.png
+    - assets/page-1/images/c8766f-2446-4acd-8480-769b0933b026-3.png
+    - assets/page-1/images/auto-group-cbwk.png
+    - assets/page-1/images/ellipse-4-JvC.png
+    - assets/page-1/images/next-XXN.png
+    - assets/page-1/images/a8d14c19-1593-4308-8425-a0972fcc0dfc-1.png
+    - assets/page-1/images/cooking-2-LK2.png
+    - assets/page-1/images/s63651852-1.png
+    - assets/page-1/images/c8766f-2446-4acd-8480-769b0933b026-2-KCk.png
+    - assets/page-1/images/ellipse-2-aVN.png
+    - assets/page-1/images/a8d14c19-1593-4308-8425-a0972fcc0dfc-1-UaC.png
+    - assets/page-1/images/c8766f-2446-4acd-8480-769b0933b026-1.png
+    - assets/page-1/images/s63651852-1-Muz.png
+    - assets/page-1/images/s63651851-4.png
+    - assets/page-1/images/a8d14c19-1593-4308-8425-a0972fcc0dfc-1-AtG.png
+    - assets/page-1/images/ef2d-cb45-43db-bf07-e8df009a0deb-1-fJ8.png
+    - assets/page-1/images/ef2d-cb45-43db-bf07-e8df009a0deb-1-2Jt.png
+    - assets/page-1/images/nctuemblem-1-wGk.png
+    - assets/page-1/images/c8766f-2446-4acd-8480-769b0933b026-1-sAQ.png
+    - assets/page-1/images/af8ff6c9-fec8-4ec0-98c6-11e7fdfc116c-1-QaC.png
+    - assets/page-1/images/surfer.png
+    - assets/page-1/images/s63651851-3.png
+    - assets/page-1/images/video-1-FZi.png
+    - assets/page-1/images/s63651851-1-ch6.png
+    - assets/page-1/images/auto-group-1yhy.png
+    - assets/page-1/images/c8766f-2446-4acd-8480-769b0933b026-1-Qt8.png
+    - assets/page-1/images/s63651851-1-oMS.png
+    - assets/page-1/images/s63651851-1-HCC.png
+    - assets/page-1/images/s63651851-2-4tx.png
+    - assets/page-1/images/s63651851-5.png
+    - assets/page-1/images/c8766f-2446-4acd-8480-769b0933b026-4.png
+    - assets/page-1/images/s63651852-1-RN8.png
+    - assets/page-1/images/c8766f-2446-4acd-8480-769b0933b026-2-Zdi.png
+
+  # An image asset can refer to one or more resolution-specific "variants", see
+  # https://flutter.dev/assets-and-images/#resolution-aware
+
+  # For details regarding adding assets from package dependencies, see
+  # https://flutter.dev/assets-and-images/#from-packages
+
+  # To add custom fonts to your application, add a fonts section here,
+  # in this "flutter" section. Each entry in this list should have a
+  # "family" key with the font family name, and a "fonts" key with a
+  # list giving the asset and other descriptors for the font. For
+  # example:
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/custom-fonts/#from-packages

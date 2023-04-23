@@ -1,0 +1,679 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.frame-55-SFS {
+  width: 100%;
+  height: 99.8rem;
+}
+.frame-55-SFS .group-2-zXr {
+  box-sizing: border-box;
+  padding: 0.9rem 0rem 0.9rem 2.6rem;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+}
+.frame-55-SFS .group-2-zXr .nctuemblem-2-XXn {
+  margin-right: 3.1rem;
+  width: 9.5rem;
+  height: 9.5rem;
+  cursor: pointer;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-55-SFS .group-2-zXr .auto-group-ft9m-fP6 {
+  margin: 16.3rem 7.9rem 0rem 0rem;
+  width: 71.9rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-55-SFS .group-2-zXr .auto-group-ft9m-fP6 .auto-group-gv3m-PK6 {
+  margin: 0rem 3.2rem 2.4rem 0rem;
+  box-sizing: border-box;
+  padding-top: 0.2rem;
+  text-align: center;
+  font-size: 5.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.0594rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-55-SFS .group-2-zXr .auto-group-ft9m-fP6 .let-if-has-a-local-maximum-or-minimum-at-then-has-a-local-maximum-or-minimum-at-so-by-fermats-theorem-see-theorem-314-but-see-equation-1131-and-so-similarly-by-applying-fermats-theorem-to-the-function-we-obtain-if-we-put-and-in-the-equation-of-a-tangent-plane-equation-1142-we-get-thus-the-geometric-interpretation-of-theorem-2-is-that-if-the-graph-of-has-a-tangent-plane-at-a-local-maximum-or-minimum-then-the-tangent-plane-must-be-horizontal-a-point-is-called-a-critical-point-or-stationary-point-of-if-and-or-if-one-of-these-partial-derivatives-does-not-exist-theorem-2-says-that-if-has-a-local-maximum-or-minimum-at-then-is-a-critical-point-of-however-as-in-single-variable-calculus-not-all-critical-points-give-rise-to-maxima-or-minima-at-a-critical-point-a-function-could-have-a-local-maximum-or-a-local-minimum-or-neither-example-2-illustrates-the-fact-that-a-function-need-not-have-a-maximum-or-minimum-value-at-a-critical-point-figure-3-shows-how-this-is-possible-the-graph-of-is-the-hyperbolic-paraboloid-which-has-a-horizontal-tangent-plane-at-the-origin-you-can-see-that-is-a-maximum-in-the-direction-of-the-axis-but-a-minimum-in-the-direction-of-the-axis-near-the-origin-the-graph-has-the-shape-of-a-saddle-and-so-is-called-a-saddle-point-of-we-need-to-be-able-to-determine-whether-or-not-a-function-has-an-Gtg {
+  margin-bottom: 2.6rem;
+  max-width: 71.9rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.0198rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.frame-55-SFS .group-2-zXr .auto-group-ft9m-fP6 .auto-group-u3tf-oJG {
+  margin: 0rem 4.2rem 0rem 3.7rem;
+  width: calc(100% - 7.9rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-55-SFS .group-2-zXr .auto-group-ft9m-fP6 .auto-group-u3tf-oJG .s63651851-3-vtg {
+  margin: 0.4rem 8.2rem 0rem 0rem;
+  width: 31.3rem;
+  height: 18.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-55-SFS .group-2-zXr .auto-group-ft9m-fP6 .auto-group-u3tf-oJG .c8766f-2446-4acd-8480-769b0933b026-3-eJt {
+  margin-bottom: 0.4rem;
+  width: 24.5rem;
+  height: 18.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-55-SFS .group-2-zXr .auto-group-j7nj-Mj6 {
+  margin-top: 14.6rem;
+  width: 49rem;
+  flex-shrink: 0;
+}
+.frame-55-SFS .group-2-zXr .auto-group-j7nj-Mj6 .whos-the-member--6wa {
+  margin: 0rem 0rem 0.6rem 3.6rem;
+  font-size: 2.3rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.0253rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-55-SFS .group-2-zXr .auto-group-j7nj-Mj6 .frame-38-c9E {
+  margin-bottom: 3.2rem;
+  box-sizing: border-box;
+  padding: 1.3rem 1rem 0rem 1.8rem;
+  width: 100%;
+  height: 62.7rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  background-color: #ffffff;
+}
+.frame-55-SFS .group-2-zXr .auto-group-j7nj-Mj6 .frame-38-c9E .frame-28-7rg {
+  margin-right: 1.3rem;
+  width: 40.7rem;
+  height: 122.7rem;
+  row-gap: 1.9rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-55-SFS .group-2-zXr .auto-group-j7nj-Mj6 .frame-38-c9E .frame-28-7rg .frame-21-cYY {
+  width: 100%;
+  height: 7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-55-SFS .group-2-zXr .auto-group-j7nj-Mj6 .frame-38-c9E .frame-28-7rg .frame-21-cYY .rectangle-25-Zig {
+  width: 38.3rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 0.6rem;
+  background-color: #d9d9d9;
+}
+.frame-55-SFS .group-2-zXr .auto-group-j7nj-Mj6 .frame-38-c9E .frame-28-7rg .frame-21-cYY .ellipse-6-6Ti {
+  width: 7rem;
+  height: 7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #9747ff;
+  border-radius: 3.5rem;
+}
+.frame-55-SFS .group-2-zXr .auto-group-j7nj-Mj6 .frame-38-c9E .frame-28-7rg .frame-21-cYY .henry-F5i {
+  width: 6.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 9.2rem;
+  top: 2rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-55-SFS .group-2-zXr .auto-group-j7nj-Mj6 .frame-38-c9E .frame-28-7rg .frame-22-koA {
+  width: 100%;
+  height: 7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-55-SFS .group-2-zXr .auto-group-j7nj-Mj6 .frame-38-c9E .frame-28-7rg .frame-22-koA .rectangle-25-iV6 {
+  width: 38.3rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 0.6rem;
+  background-color: #d9d9d9;
+}
+.frame-55-SFS .group-2-zXr .auto-group-j7nj-Mj6 .frame-38-c9E .frame-28-7rg .frame-22-koA .ellipse-6-etY {
+  width: 7rem;
+  height: 7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #9747ff;
+  border-radius: 3.5rem;
+}
+.frame-55-SFS .group-2-zXr .auto-group-j7nj-Mj6 .frame-38-c9E .frame-28-7rg .frame-22-koA .henry-omS {
+  width: 6.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 9.2rem;
+  top: 2rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-55-SFS .group-2-zXr .auto-group-j7nj-Mj6 .frame-38-c9E .frame-28-7rg .frame-23-vLG {
+  width: 100%;
+  height: 7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-55-SFS .group-2-zXr .auto-group-j7nj-Mj6 .frame-38-c9E .frame-28-7rg .frame-23-vLG .rectangle-25-Usa {
+  width: 38.3rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 0.6rem;
+  background-color: #d9d9d9;
+}
+.frame-55-SFS .group-2-zXr .auto-group-j7nj-Mj6 .frame-38-c9E .frame-28-7rg .frame-23-vLG .ellipse-6-RH2 {
+  width: 7rem;
+  height: 7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #9747ff;
+  border-radius: 3.5rem;
+}
+.frame-55-SFS .group-2-zXr .auto-group-j7nj-Mj6 .frame-38-c9E .frame-28-7rg .frame-23-vLG .henry-Ze8 {
+  width: 6.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 9.2rem;
+  top: 2rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-55-SFS .group-2-zXr .auto-group-j7nj-Mj6 .frame-38-c9E .frame-28-7rg .frame-24-H4L {
+  width: 100%;
+  height: 7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-55-SFS .group-2-zXr .auto-group-j7nj-Mj6 .frame-38-c9E .frame-28-7rg .frame-24-H4L .rectangle-25-Dya {
+  width: 38.3rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 0.6rem;
+  background-color: #d9d9d9;
+}
+.frame-55-SFS .group-2-zXr .auto-group-j7nj-Mj6 .frame-38-c9E .frame-28-7rg .frame-24-H4L .ellipse-6-N5n {
+  width: 7rem;
+  height: 7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #9747ff;
+  border-radius: 3.5rem;
+}
+.frame-55-SFS .group-2-zXr .auto-group-j7nj-Mj6 .frame-38-c9E .frame-28-7rg .frame-24-H4L .henry-K12 {
+  width: 6.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 9.2rem;
+  top: 2rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-55-SFS .group-2-zXr .auto-group-j7nj-Mj6 .frame-38-c9E .frame-28-7rg .frame-26-d1i {
+  width: 100%;
+  height: 7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-55-SFS .group-2-zXr .auto-group-j7nj-Mj6 .frame-38-c9E .frame-28-7rg .frame-26-d1i .rectangle-25-PFn {
+  width: 38.3rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 0.6rem;
+  background-color: #d9d9d9;
+}
+.frame-55-SFS .group-2-zXr .auto-group-j7nj-Mj6 .frame-38-c9E .frame-28-7rg .frame-26-d1i .ellipse-6-iYx {
+  width: 7rem;
+  height: 7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #9747ff;
+  border-radius: 3.5rem;
+}
+.frame-55-SFS .group-2-zXr .auto-group-j7nj-Mj6 .frame-38-c9E .frame-28-7rg .frame-26-d1i .henry-fDJ {
+  width: 6.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 9.2rem;
+  top: 2rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-55-SFS .group-2-zXr .auto-group-j7nj-Mj6 .frame-38-c9E .frame-28-7rg .frame-27-m1S {
+  width: 100%;
+  height: 7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-55-SFS .group-2-zXr .auto-group-j7nj-Mj6 .frame-38-c9E .frame-28-7rg .frame-27-m1S .rectangle-25-iSU {
+  width: 38.3rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 0.6rem;
+  background-color: #d9d9d9;
+}
+.frame-55-SFS .group-2-zXr .auto-group-j7nj-Mj6 .frame-38-c9E .frame-28-7rg .frame-27-m1S .ellipse-6-rYg {
+  width: 7rem;
+  height: 7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #9747ff;
+  border-radius: 3.5rem;
+}
+.frame-55-SFS .group-2-zXr .auto-group-j7nj-Mj6 .frame-38-c9E .frame-28-7rg .frame-27-m1S .henry-QKJ {
+  width: 6.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 9.2rem;
+  top: 2rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-55-SFS .group-2-zXr .auto-group-j7nj-Mj6 .frame-38-c9E .frame-28-7rg .frame-28-7zQ {
+  width: 100%;
+  height: 7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-55-SFS .group-2-zXr .auto-group-j7nj-Mj6 .frame-38-c9E .frame-28-7rg .frame-28-7zQ .rectangle-25-g1v {
+  width: 38.3rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 0.6rem;
+  background-color: #d9d9d9;
+}
+.frame-55-SFS .group-2-zXr .auto-group-j7nj-Mj6 .frame-38-c9E .frame-28-7rg .frame-28-7zQ .ellipse-6-p88 {
+  width: 7rem;
+  height: 7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #9747ff;
+  border-radius: 3.5rem;
+}
+.frame-55-SFS .group-2-zXr .auto-group-j7nj-Mj6 .frame-38-c9E .frame-28-7rg .frame-28-7zQ .henry-ZrQ {
+  width: 6.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 9.2rem;
+  top: 2rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-55-SFS .group-2-zXr .auto-group-j7nj-Mj6 .frame-38-c9E .frame-28-7rg .frame-29-HXW {
+  width: 100%;
+  height: 7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-55-SFS .group-2-zXr .auto-group-j7nj-Mj6 .frame-38-c9E .frame-28-7rg .frame-29-HXW .rectangle-25-SvC {
+  width: 38.3rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 0.6rem;
+  background-color: #d9d9d9;
+}
+.frame-55-SFS .group-2-zXr .auto-group-j7nj-Mj6 .frame-38-c9E .frame-28-7rg .frame-29-HXW .ellipse-6-nUG {
+  width: 7rem;
+  height: 7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #9747ff;
+  border-radius: 3.5rem;
+}
+.frame-55-SFS .group-2-zXr .auto-group-j7nj-Mj6 .frame-38-c9E .frame-28-7rg .frame-29-HXW .henry-jPW {
+  width: 6.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 9.2rem;
+  top: 2rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-55-SFS .group-2-zXr .auto-group-j7nj-Mj6 .frame-38-c9E .frame-28-7rg .frame-30-3f6 {
+  width: 100%;
+  height: 7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-55-SFS .group-2-zXr .auto-group-j7nj-Mj6 .frame-38-c9E .frame-28-7rg .frame-30-3f6 .rectangle-25-D3n {
+  width: 38.3rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 0.6rem;
+  background-color: #d9d9d9;
+}
+.frame-55-SFS .group-2-zXr .auto-group-j7nj-Mj6 .frame-38-c9E .frame-28-7rg .frame-30-3f6 .ellipse-6-9TE {
+  width: 7rem;
+  height: 7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #9747ff;
+  border-radius: 3.5rem;
+}
+.frame-55-SFS .group-2-zXr .auto-group-j7nj-Mj6 .frame-38-c9E .frame-28-7rg .frame-30-3f6 .henry-tvc {
+  width: 6.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 9.2rem;
+  top: 2rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-55-SFS .group-2-zXr .auto-group-j7nj-Mj6 .frame-38-c9E .frame-28-7rg .frame-31-ong {
+  width: 100%;
+  height: 7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-55-SFS .group-2-zXr .auto-group-j7nj-Mj6 .frame-38-c9E .frame-28-7rg .frame-31-ong .rectangle-25-yBN {
+  width: 38.3rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 0.6rem;
+  background-color: #d9d9d9;
+}
+.frame-55-SFS .group-2-zXr .auto-group-j7nj-Mj6 .frame-38-c9E .frame-28-7rg .frame-31-ong .ellipse-6-JjS {
+  width: 7rem;
+  height: 7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #9747ff;
+  border-radius: 3.5rem;
+}
+.frame-55-SFS .group-2-zXr .auto-group-j7nj-Mj6 .frame-38-c9E .frame-28-7rg .frame-31-ong .henry-dmi {
+  width: 6.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 9.2rem;
+  top: 2rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-55-SFS .group-2-zXr .auto-group-j7nj-Mj6 .frame-38-c9E .frame-28-7rg .frame-32-k5e {
+  width: 100%;
+  height: 7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-55-SFS .group-2-zXr .auto-group-j7nj-Mj6 .frame-38-c9E .frame-28-7rg .frame-32-k5e .rectangle-25-hWg {
+  width: 38.3rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 0.6rem;
+  background-color: #d9d9d9;
+}
+.frame-55-SFS .group-2-zXr .auto-group-j7nj-Mj6 .frame-38-c9E .frame-28-7rg .frame-32-k5e .ellipse-6-RxU {
+  width: 7rem;
+  height: 7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #9747ff;
+  border-radius: 3.5rem;
+}
+.frame-55-SFS .group-2-zXr .auto-group-j7nj-Mj6 .frame-38-c9E .frame-28-7rg .frame-32-k5e .henry-mmS {
+  width: 6.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 9.2rem;
+  top: 2rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-55-SFS .group-2-zXr .auto-group-j7nj-Mj6 .frame-38-c9E .frame-28-7rg .frame-33-Uvk {
+  width: 100%;
+  height: 7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-55-SFS .group-2-zXr .auto-group-j7nj-Mj6 .frame-38-c9E .frame-28-7rg .frame-33-Uvk .rectangle-25-Euv {
+  width: 38.3rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 0.6rem;
+  background-color: #d9d9d9;
+}
+.frame-55-SFS .group-2-zXr .auto-group-j7nj-Mj6 .frame-38-c9E .frame-28-7rg .frame-33-Uvk .ellipse-6-nRe {
+  width: 7rem;
+  height: 7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #9747ff;
+  border-radius: 3.5rem;
+}
+.frame-55-SFS .group-2-zXr .auto-group-j7nj-Mj6 .frame-38-c9E .frame-28-7rg .frame-33-Uvk .henry-j5z {
+  width: 6.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 9.2rem;
+  top: 2rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-55-SFS .group-2-zXr .auto-group-j7nj-Mj6 .frame-38-c9E .frame-28-7rg .frame-34-3Ma {
+  width: 100%;
+  height: 7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-55-SFS .group-2-zXr .auto-group-j7nj-Mj6 .frame-38-c9E .frame-28-7rg .frame-34-3Ma .rectangle-25-obe {
+  width: 38.3rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 0.6rem;
+  background-color: #d9d9d9;
+}
+.frame-55-SFS .group-2-zXr .auto-group-j7nj-Mj6 .frame-38-c9E .frame-28-7rg .frame-34-3Ma .ellipse-6-9fW {
+  width: 7rem;
+  height: 7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #9747ff;
+  border-radius: 3.5rem;
+}
+.frame-55-SFS .group-2-zXr .auto-group-j7nj-Mj6 .frame-38-c9E .frame-28-7rg .frame-34-3Ma .henry-u8t {
+  width: 6.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 9.2rem;
+  top: 2rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-55-SFS .group-2-zXr .auto-group-j7nj-Mj6 .frame-38-c9E .frame-28-7rg .frame-25-pWk {
+  width: 100%;
+  height: 7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-55-SFS .group-2-zXr .auto-group-j7nj-Mj6 .frame-38-c9E .frame-28-7rg .frame-25-pWk .rectangle-25-yeY {
+  width: 38.3rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 0.6rem;
+  background-color: #d9d9d9;
+}
+.frame-55-SFS .group-2-zXr .auto-group-j7nj-Mj6 .frame-38-c9E .frame-28-7rg .frame-25-pWk .ellipse-6-81e {
+  width: 7rem;
+  height: 7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #9747ff;
+  border-radius: 3.5rem;
+}
+.frame-55-SFS .group-2-zXr .auto-group-j7nj-Mj6 .frame-38-c9E .frame-28-7rg .frame-25-pWk .henry-sE8 {
+  width: 6.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 9.2rem;
+  top: 2rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-55-SFS .group-2-zXr .auto-group-j7nj-Mj6 .frame-38-c9E .auto-group-8zsx-aPS {
+  margin-top: 1.5rem;
+  width: 4.2rem;
+  height: 56.6rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-55-SFS .group-2-zXr .auto-group-j7nj-Mj6 .frame-41-W2C {
+  margin: 0rem 4.8rem 0rem 2.5rem;
+  width: calc(100% - 7.3rem);
+  height: 10.1rem;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.033rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffa629;
+  border-radius: 2rem;
+}

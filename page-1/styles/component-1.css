@@ -1,0 +1,206 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 74.8rem;
+}.component-1-3X6 {
+  box-sizing: border-box;
+  padding: 2rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.5rem;
+}
+.component-1-3X6 .property-1item-bar-1-nDn {
+  margin-right: 5rem;
+  box-sizing: border-box;
+  padding: 2.1rem 1.9rem 2.2rem 2rem;
+  width: 20.6rem;
+  height: 86rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f5f5f5;
+  flex-shrink: 0;
+}
+.component-1-3X6 .property-1item-bar-1-nDn .cooking-2-5Tn {
+  margin: 0rem 0rem 3.4rem 0.6rem;
+  width: 11.3rem;
+  height: 11.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.component-1-3X6 .property-1item-bar-1-nDn .yoga-1-QFA {
+  margin: 0rem 1.2rem 5.8rem 0rem;
+  width: 10.5rem;
+  height: 10.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.component-1-3X6 .property-1item-bar-1-nDn .restaurant-1-ime {
+  margin: 0rem 1.7rem 5.8rem 0rem;
+  width: 10rem;
+  height: 8.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.component-1-3X6 .property-1item-bar-1-nDn .video-1-3J8 {
+  margin: 0rem 1.3rem 3.4rem 0rem;
+  width: 9.8rem;
+  height: 10.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.component-1-3X6 .property-1item-bar-1-nDn .guitar-1-Ade {
+  margin: 0rem 0rem 5rem 0.1rem;
+  width: 11.8rem;
+  height: 13.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.component-1-3X6 .property-1item-bar-1-nDn .next-h7n {
+  width: 16.7rem;
+  height: 3.8rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.component-1-3X6 .property-1item-bar-2-1eG {
+  margin-right: 4rem;
+  box-sizing: border-box;
+  padding: 3.7rem 1.9rem 2.2rem 2rem;
+  width: 20.6rem;
+  height: 86rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f5f5f5;
+  flex-shrink: 0;
+}
+.component-1-3X6 .property-1item-bar-2-1eG .gender-1-uUk {
+  margin: 0rem 0rem 5rem 0.2rem;
+  width: 9.5rem;
+  height: 8.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.component-1-3X6 .property-1item-bar-2-1eG .surfer-2-dfe {
+  margin: 0rem 0rem 4.2rem 1rem;
+  width: 10.3rem;
+  height: 10.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.component-1-3X6 .property-1item-bar-2-1eG .hiking-2-ZJQ {
+  margin: 0rem 1.3rem 4.1rem 0rem;
+  width: 11.6rem;
+  height: 12.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.component-1-3X6 .property-1item-bar-2-1eG .video-1-gtp {
+  margin: 0rem 1.3rem 4.1rem 0rem;
+  width: 9.8rem;
+  height: 10.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.component-1-3X6 .property-1item-bar-2-1eG .yoga-1-1AQ {
+  margin: 0rem 3.2rem 6.9rem 0rem;
+  width: 10.5rem;
+  height: 10.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.component-1-3X6 .property-1item-bar-2-1eG .next-91i {
+  width: 16.7rem;
+  height: 3.8rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.component-1-3X6 .property-1item-bar-3-5RA {
+  box-sizing: border-box;
+  padding: 2.1rem 1.9rem 2.2rem 2rem;
+  width: 20.6rem;
+  height: 86rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f5f5f5;
+  flex-shrink: 0;
+}
+.component-1-3X6 .property-1item-bar-3-5RA .cooking-2-PRr {
+  margin: 0rem 0rem 1.4rem 0.6rem;
+  width: 11.3rem;
+  height: 11.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.component-1-3X6 .property-1item-bar-3-5RA .guitar-1-WmN {
+  margin: 0rem 0rem 5.2rem 0.1rem;
+  width: 11.8rem;
+  height: 13.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.component-1-3X6 .property-1item-bar-3-5RA .restaurant-1-SQ8 {
+  margin: 0rem 1.7rem 5.8rem 0rem;
+  width: 10rem;
+  height: 8.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.component-1-3X6 .property-1item-bar-3-5RA .video-1-mSQ {
+  margin: 0rem 1.3rem 4.6rem 0rem;
+  width: 9.8rem;
+  height: 10.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.component-1-3X6 .property-1item-bar-3-5RA .surfer-3-6Dn {
+  margin: 0rem 2rem 6.8rem 0rem;
+  width: 10.3rem;
+  height: 10.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.component-1-3X6 .property-1item-bar-3-5RA .next-RG4 {
+  width: 16.7rem;
+  height: 3.8rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
